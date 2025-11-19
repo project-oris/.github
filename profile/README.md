@@ -10,15 +10,13 @@ ORIS (On-device Robot Intelligence SW Platform) is an R&D project focused on dev
   <em>Figure 1. Overview of ORIS</em>
 </p>
 
-### Objectives of ORIS
-
 ORIS aims to develop core software platform technologies for on-device robot intelligence that overcome hardware resource constraints and enable real-time intelligent processing, validating them through implementations on commercial robotic platforms.
 
 The key objective is to enable robots to perform intelligent tasks using only on-device hardware resources, without relying on external hardware infrastructure such as cloud computing or edge servers.
 
 ---
 
-# Platform Architecture
+# ORIS Architecture
 
 <p align="center">
   <img src="../docs/media/2_Platform_Architecture.png" alt="Platform Architecture" width="100%"><br>
@@ -45,7 +43,7 @@ ORIS ensures practical robot implementation effectiveness by developing on-devic
 
 ---
 
-# Field Demonstration 
+# ORIS Field Application 
 
 <p align="center">
   <img src="../docs/media/3_field_demonstration.png" alt="Field Demonstration" width="100%"><br>
